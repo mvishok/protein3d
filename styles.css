@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #loading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #container {
+    width: 600px;
+    height: 400px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+  }
+  
